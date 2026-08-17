@@ -43,3 +43,9 @@ API – при поиске номера выполняется запрос к 
 
 
 https://huggingface.co/spaces/dream6767/bot - ссылка для мобильных устройств 
+
+Поддерживает:
+
+apple 🍎
+android🤖
+windows 🪟
